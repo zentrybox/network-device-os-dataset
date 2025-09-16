@@ -7,10 +7,15 @@ This repository is dedicated to the design and creation of a **structured datase
 
 The dataset aims to centralize relevant information about vendors, models, and operating system versions of network devices widely used in enterprise and telecommunications environments.
 
+
 ## Repository Structure
 
-- `devices.json`: Main dataset file. Contains a list of devices, vendor (`vendor`), operating system name (`os_name`), and available versions (`os_versions`).
+- `dataset/devices.json`: Main dataset file. Contains a list of devices, vendor (`vendor`), operating system name (`os_name`), and available versions (`os_versions`).
 - `README.md`: This document.
+- `CONTRIBUTING.md`: Contribution guidelines.
+- `LICENSE`: Project license.
+- `.github/`: Community health files (issue, PR templates, code of conduct).
+- `docs/`: Documentation and guides (optional, for future use).
 
 ## Dataset Format
 
