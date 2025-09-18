@@ -5,9 +5,9 @@
     "os_name": "ASA OS",
     "os_version": "7.0(1)",
     "normalized_version": "7.0.1",
-    "ground_truth_vulnerable": null,
-    "ground_truth_cves": [],
-    "confidence_label": null
+    "ground_truth_vulnerable": 1,
+    "ground_truth_cves": ["CVE-2007-5581", "CVE-2020-3564","CVE-2020-3572","CVE-2020-3578"],
+    "confidence_label": 9.5
   },
   {
     "id": "0f0c9fde-e9e7-46a0-8c49-cd6632ab5325",
@@ -217,6 +217,16 @@
     "normalized_version": "9.2",
     "ground_truth_vulnerable": null,
     "ground_truth_cves": [],
+    "confidence_label": null
+  },
+  {
+    "id": "0574d4d7-bf25-4158-9295-db039c1cdeb8",
+    "vendor": "Cisco",
+    "os_name": "ASA OS",
+    "os_version": "9.6(x)",
+    "normalized_version": "9.6",
+    "ground_truth_vulnerable": 1,
+    "ground_truth_cves": ["CVE-2020-3578"],
     "confidence_label": null
   },
   {

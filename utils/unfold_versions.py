@@ -67,13 +67,13 @@ def normalize_version(version: str) -> str:
     return simple
 
 
-def build_entry(vendor: str, os_name: str, os_version: str) -> dict:
+def build_entry(vendor: str, product: str, version: str) -> dict:
     return {
         "id": str(uuid.uuid4()),
         "vendor": vendor,
-        "os_name": os_name,
-        "os_version": os_version,
-        "normalized_version": normalize_version(os_version),
+        "product": product,
+        "version": version,
+        "normalized_version": normalize_version(version),
         # Fields to be filled manually
         "ground_truth_vulnerable": None,
         "ground_truth_cves": [],
@@ -93,8 +93,8 @@ def load_mappings(path: str) -> List[dict]:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate base firewall dataset for manual labeling")
-    parser.add_argument("--input", "-i", required=True, help="Input JSON with vendors/os_name/os_versions")
+    parser = argparse.ArgumentParser(description="Generate base device dataset for manual labeling")
+    parser.add_argument("--input", "-i", required=True, help="Input JSON with vendor/product/version fields")
     parser.add_argument("--output", "-o", required=True, help="Output JSON with the generated dataset")
     parser.add_argument("--append", "-a", action="store_true", help="If output file exists, append instead of overwrite")
     args = parser.parse_args()
@@ -104,8 +104,8 @@ def main():
     entries = []
     for item in mappings:
         vendor = item.get("vendor") or item.get("Vendor") or ""
-        os_name = item.get("os_name") or item.get("os") or item.get("osName") or ""
-        versions = item.get("os_versions") or item.get("os_versions") or item.get("osVersions") or []
+        product = item.get("product") or item.get("Product") or ""
+        versions = item.get("version") or item.get("versions") or []
         if not isinstance(versions, list):
             if isinstance(versions, str):
                 versions = [v.strip() for v in versions.split(",") if v.strip()]
@@ -113,7 +113,7 @@ def main():
                 versions = []
 
         for v in versions:
-            entries.append(build_entry(vendor, os_name, v))
+            entries.append(build_entry(vendor, product, v))
 
     if args.append:
         try:

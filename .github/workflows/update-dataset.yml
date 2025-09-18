@@ -24,9 +24,11 @@ jobs:
           python -m pip install --upgrade pip
           # Add requirements.txt here if needed
 
+
       - name: Run dataset update script (append only)
         run: |
-          python utils/unfold_versions.py --input dataset/devices_manifest.json --output dataset/dataset.json --append
+          # Uses the new manifest format: vendor, product, version
+          python utils/unfold_versions.py --input dataset/vendor_manifest.json --output dataset/dataset.json --append
 
       - name: Show diff (optional)
         run: |

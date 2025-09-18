@@ -1,6 +1,7 @@
 # Repository Structure
 
-- `dataset/devices.json`: Main dataset file with all device and OS version data.
+- `dataset/vendor_manifest.json`: Manifest file with all device, product, and version data.
+- `dataset/dataset.json`: Expanded dataset, generated from the manifest.
 - `README.md`: Project overview and usage.
 - `CONTRIBUTING.md`: How to contribute.
 - `LICENSE`: License information.
