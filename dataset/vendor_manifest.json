@@ -203,25 +203,9 @@
   },
   {
     "vendor": "Huawei",
-    "product": "NGFW Module, NIP6300, NIP6600, Secospace USG6500, Secospace USG6600, USG9500",
-    "version": [
-      "V500R001C30",
-      "V500R001C60",
-      "V500R005C00"
-    ]
-  },
-  {
-    "vendor": "Huawei",
     "product": "CloudLink Board",
     "version": [
       "20.0.0"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Anne-AL00",
-    "version": [
-      "earlier than 8.0.0.168(C00)"
     ]
   },
   {
@@ -368,152 +352,6 @@
       "V200R007C00",
       "V200R008C20",
       "V200R008C30"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Charlotte-L09C",
-    "version": [
-      "Versions earlier than 9.1.0.311(C185E4R1P11T8)",
-      "Versions earlier than 9.1.0.345(C432E8R1P11T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Charlotte-L29C",
-    "version": [
-      "Versions earlier than 9.1.0.325(C185E4R1P11T8)",
-      "Versions earlier than 9.1.0.335(C636E3R1P13T8)",
-      "Versions earlier than 9.1.0.336(C605E3R1P12T8)",
-      "Versions earlier than 9.1.0.345(C432E8R1P11T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Cornell-AL00A",
-    "version": [
-      "Versions earlier than 9.1.0.333(C00E333R1P1T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Cornell-L29A",
-    "version": [
-      "Versions earlier than 9.1.0.328(C185E1R1P9T8)",
-      "Versions earlier than 9.1.0.328(C432E1R1P9T8)",
-      "Versions earlier than 9.1.0.328(C636E2R1P12T8)",
-      "Versions earlier than 9.1.0.330(C461E1R1P9T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Paris-L21B",
-    "version": [
-      "Versions earlier than 9.1.0.331(C432E1R1P2T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Paris-L21MEB",
-    "version": [
-      "Versions earlier than 9.1.0.331(C185E4R1P3T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Paris-L29B",
-    "version": [
-      "Versions earlier than 9.1.0.331(C636E1R1P3T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Sydney-AL00",
-    "version": [
-      "Versions earlier than 9.1.0.212(C00E62R1P7T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Sydney-L21",
-    "version": [
-      "Versions earlier than 9.1.0.213(C185E1R1P1T8)",
-      "Versions earlier than 9.1.0.215(C432E1R1P1T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Sydney-L21BR",
-    "version": [
-      "Versions earlier than 9.1.0.213(C185E1R1P2T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Sydney-L22",
-    "version": [
-      "Versions earlier than 9.1.0.258(C636E1R1P1T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Sydney-L22BR",
-    "version": [
-      "Versions earlier than 9.1.0.258(C636E1R1P1T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "SydneyM-AL00",
-    "version": [
-      "Versions earlier than 9.1.0.228(C00E78R1P7T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "SydneyM-L01",
-    "version": [
-      "Versions earlier than 9.1.0.213(C185E1R1P1T8)",
-      "Versions earlier than 9.1.0.215(C782E2R1P1T8)",
-      "Versions earlier than 9.1.0.270(C432E3R1P1T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "SydneyM-L03",
-    "version": [
-      "Versions earlier than 9.1.0.217(C605E1R1P1T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "SydneyM-L21",
-    "version": [
-      "Versions earlier than 9.1.0.215(C432E4R1P1T8)",
-      "Versions earlier than 9.1.0.221(C461E1R1P1T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "SydneyM-L22",
-    "version": [
-      "Versions earlier than 9.1.0.216(C569E1R1P1T8)",
-      "Versions earlier than 9.1.0.220(C635E1R1P2T8)",
-      "Versions earlier than 9.1.0.259(C185E1R1P2T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "SydneyM-L23",
-    "version": [
-      "Versions earlier than 9.1.0.226(C605E2R1P1T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "Share function P30",
-    "version": [
-      "9.1.0.193(C00E190R2P1)"
     ]
   },
   {
@@ -1333,63 +1171,6 @@
     "product": "ZyXEL P-870H-51 DSL Router",
     "version": [
       "1.00(AWG.3)D5"
-    ]
-  },
-  {
-    "vendor": "HUAWEI",
-    "product": "Anne-AL00",
-    "version": [
-      "earlier than 9.1.0.331(C675E9R1P3T8)"
-    ]
-  },
-  {
-    "vendor": "HUAWEI",
-    "product": "Marie-AL00AX",
-    "version": [
-      "earlier than 10.0.0.158(C00E64R1P9)"
-    ]
-  },
-  {
-    "vendor": "HUAWEI",
-    "product": "Marie-AL00AY",
-    "version": [
-      "earlier than 10.0.0.158(C00E64R1P9)"
-    ]
-  },
-  {
-    "vendor": "HUAWEI",
-    "product": "Marie-AL00BX",
-    "version": [
-      "earlier than 10.0.0.158(C00E64R1P9)"
-    ]
-  },
-  {
-    "vendor": "HUAWEI",
-    "product": "Marie-L03BX",
-    "version": [
-      "earlier than 10.0.0.188(C605E5R1P1)"
-    ]
-  },
-  {
-    "vendor": "HUAWEI",
-    "product": "Marie-L21BX",
-    "version": [
-      "earlier than 10.0.0.188(C432E4R4P1)",
-      "earlier than 10.0.0.188(C461E5R3P1)"
-    ]
-  },
-  {
-    "vendor": "HUAWEI",
-    "product": "Marie-L22BX",
-    "version": [
-      "earlier than 10.0.0.188(C636E3R3P1)"
-    ]
-  },
-  {
-    "vendor": "HUAWEI",
-    "product": "Marie-L23BX",
-    "version": [
-      "earlier than 10.0.0.188(C605E5R1P1)"
     ]
   },
   {
@@ -3275,16 +3056,6 @@
   },
   {
     "vendor": "Cisco",
-    "product": "Cisco RV130W Wireless-N Multifunction VPN Router Firmware",
-    "version": [
-      "1.0.3.51",
-      "1.2.2.4",
-      "n/a",
-      "unspecified"
-    ]
-  },
-  {
-    "vendor": "Cisco",
     "product": "Cisco NX-OS Software 7.3(2)D1(1d)",
     "version": [
       "n/a",
@@ -4109,15 +3880,6 @@
   },
   {
     "vendor": "Cisco",
-    "product": "Cisco TelePresence TC Software",
-    "version": [
-      "9.7.1",
-      "n/a",
-      "unspecified"
-    ]
-  },
-  {
-    "vendor": "Cisco",
     "product": "Cisco Aironet Access Point Software",
     "version": [
       "8.10.105.0",
@@ -4254,15 +4016,6 @@
     "product": "Cisco IOS XE Software 16.6.1",
     "version": [
       "n/a"
-    ]
-  },
-  {
-    "vendor": "Cisco",
-    "product": "Cisco TelePresence CE Software",
-    "version": [
-      "ce-9.7.3",
-      "n/a",
-      "unspecified"
     ]
   },
   {
@@ -4451,13 +4204,6 @@
     "version": [
       "n/a",
       "unspecified"
-    ]
-  },
-  {
-    "vendor": "Cisco",
-    "product": "Cisco RV110W Wireless-N VPN Firewall Firmware",
-    "version": [
-      "n/a"
     ]
   },
   {
@@ -5049,63 +4795,6 @@
   },
   {
     "vendor": "Cisco",
-    "product": "Cisco TelePresence Endpoint Software (TC/CE)",
-    "version": [
-      "9.15.3.25",
-      "CE9.0.1",
-      "CE9.1.1",
-      "CE9.1.2",
-      "CE9.1.3",
-      "CE9.1.4",
-      "CE9.1.5",
-      "CE9.1.6",
-      "CE9.10.1",
-      "CE9.10.2",
-      "CE9.10.3",
-      "CE9.12.3",
-      "CE9.12.4",
-      "CE9.12.5",
-      "CE9.13.0",
-      "CE9.13.1",
-      "CE9.13.2",
-      "CE9.13.3",
-      "CE9.14.3",
-      "CE9.14.4",
-      "CE9.14.5",
-      "CE9.14.6",
-      "CE9.14.7",
-      "CE9.15.0.10",
-      "CE9.15.0.11",
-      "CE9.15.0.13",
-      "CE9.15.0.19",
-      "CE9.15.10.8",
-      "CE9.15.13.0",
-      "CE9.15.15.4",
-      "CE9.15.16.5",
-      "CE9.15.3.17",
-      "CE9.15.3.18",
-      "CE9.15.3.19",
-      "CE9.15.3.22",
-      "CE9.15.3.25",
-      "CE9.15.3.26",
-      "CE9.15.8.12",
-      "CE9.2.1",
-      "CE9.2.2",
-      "CE9.2.3",
-      "CE9.2.4",
-      "CE9.9.3",
-      "CE9.9.4",
-      "N/A",
-      "RoomOS 10.11.3.0",
-      "RoomOS 10.11.5.2",
-      "RoomOS 10.15.3.0",
-      "RoomOS 10.8.4.0",
-      "TC7.3.21",
-      "n/a"
-    ]
-  },
-  {
-    "vendor": "Cisco",
     "product": "Cisco Edge Fog Fabric",
     "version": [
       "n/a"
@@ -5657,43 +5346,11 @@
   },
   {
     "vendor": "Cisco",
-    "product": "Cisco UCS B-Series Blade Server Software",
-    "version": [
-      "4.0(2a)",
-      "unspecified"
-    ]
-  },
-  {
-    "vendor": "Cisco",
     "product": "Cisco IOS Software",
     "version": [
       "12.2(60)EZ12",
       "15.x",
       "n/a"
-    ]
-  },
-  {
-    "vendor": "Cisco",
-    "product": "RV110W Wireless-N VPN Firewall",
-    "version": [
-      "1.2.2.1",
-      "unspecified"
-    ]
-  },
-  {
-    "vendor": "Cisco",
-    "product": "RV130W Wireless-N Multifunction VPN Router",
-    "version": [
-      "1.0.3.45",
-      "unspecified"
-    ]
-  },
-  {
-    "vendor": "Cisco",
-    "product": "RV215W Wireless-N VPN Router",
-    "version": [
-      "1.3.1.1",
-      "unspecified"
     ]
   },
   {
@@ -6369,13 +6026,6 @@
     "version": [
       "2.0",
       "unspecified"
-    ]
-  },
-  {
-    "vendor": "Cisco",
-    "product": "Cisco AMP Threat Grid Appliance Software",
-    "version": [
-      "n/a"
     ]
   },
   {
@@ -7349,95 +6999,6 @@
   },
   {
     "vendor": "Cisco",
-    "product": "Cisco Business Wireless Access Point Software",
-    "version": [
-      "0.0.0.0",
-      "1.0.0.10",
-      "1.0.0.12",
-      "1.0.0.13",
-      "1.0.0.14",
-      "1.0.0.15",
-      "1.0.0.16",
-      "1.0.0.17",
-      "1.0.0.3",
-      "1.0.0.39",
-      "1.0.0.4",
-      "1.0.0.5",
-      "1.0.0.7",
-      "1.0.0.9",
-      "1.0.1.10",
-      "1.0.1.11",
-      "1.0.1.12",
-      "1.0.1.2",
-      "1.0.1.3",
-      "1.0.1.4",
-      "1.0.1.5",
-      "1.0.1.6",
-      "1.0.1.7",
-      "1.0.1.9",
-      "1.0.2.0",
-      "1.0.2.13",
-      "1.0.2.14",
-      "1.0.2.15",
-      "1.0.2.16",
-      "1.0.2.17",
-      "1.0.2.2",
-      "1.0.2.3",
-      "1.0.2.6",
-      "1.0.2.8",
-      "1.0.3.1",
-      "1.0.3.4",
-      "1.0.4.2",
-      "1.0.4.3",
-      "1.0.4.4",
-      "1.0.5.0",
-      "1.0.5.3",
-      "1.0.6.2",
-      "1.0.6.5",
-      "1.0.6.6",
-      "1.0.6.7",
-      "1.0.6.8",
-      "1.1.0.3",
-      "1.1.0.4",
-      "1.1.0.5",
-      "1.1.0.6",
-      "1.1.0.7",
-      "1.1.0.9",
-      "1.1.1.0",
-      "1.1.2.3",
-      "1.1.2.4",
-      "1.1.3.2",
-      "1.1.4.0",
-      "1.1.4.6",
-      "1.2.0.2",
-      "1.2.0.3",
-      "1.2.1.3",
-      "1.3.0.3",
-      "1.3.0.4",
-      "1.3.0.6",
-      "1.3.0.7",
-      "10.0.1.0",
-      "10.0.2.0",
-      "10.1.1.0",
-      "10.1.2.0",
-      "10.2.1.0",
-      "10.2.2.0",
-      "10.3.1.0",
-      "10.3.1.1",
-      "10.3.2.0",
-      "10.4.1.0",
-      "10.4.2.0",
-      "10.5.2.0",
-      "10.6.1.0",
-      "10.6.2.0",
-      "10.7.1.0",
-      "10.8.1.0",
-      "10.9.1.0",
-      "n/a"
-    ]
-  },
-  {
-    "vendor": "Cisco",
     "product": "Cisco Nexus 3550 System Software",
     "version": [
       "3550-F_1.11.1",
@@ -7865,13 +7426,6 @@
   },
   {
     "vendor": "Cisco",
-    "product": "Cisco RV180W Wireless-N Multifunction VPN Router",
-    "version": [
-      "n/a"
-    ]
-  },
-  {
-    "vendor": "Cisco",
     "product": "Cisco Aironet Access Points",
     "version": [
       "8.2",
@@ -8203,13 +7757,6 @@
   },
   {
     "vendor": "Check Point",
-    "product": "Check Point Endpoint Security Client for Windows, Anti-Malware blade",
-    "version": [
-      "before E81.00"
-    ]
-  },
-  {
-    "vendor": "Check Point",
     "product": "ZoneAlarm Extreme Security",
     "version": [
       "4.0.148.0"
@@ -8306,38 +7853,6 @@
       "PAN-OS 8.0.18 and earlier",
       "PAN-OS 8.1.8-h4 and earlier",
       "and PAN-OS 9.0.2-h3"
-    ]
-  },
-  {
-    "vendor": "Zyxel",
-    "product": "ATP series firmware",
-    "version": [
-      "4.32 through 5.20",
-      "4.32 through 5.21",
-      "4.32 through 5.30",
-      "4.32 through 5.31",
-      "4.32 through 5.32",
-      "4.32 through 5.35",
-      "4.32 through 5.36 Patch 1",
-      "4.32 through 5.36 Patch 2",
-      "4.35 through 5.20",
-      "4.60 through 5.35",
-      "4.60 through 5.36 Patch 1",
-      "4.60 through 5.36 Patch 2",
-      "5.00 through 5.36 Patch 2",
-      "5.10 through 5.21 Patch 1",
-      "5.10 through 5.32",
-      "5.10 through 5.35",
-      "5.10 through 5.36",
-      "5.10 through 5.36 Patch 2",
-      "5.37",
-      "version 4.32  through 5.37 Patch 1",
-      "version 4.32 through 5.37 Patch 1",
-      "versions 4.32 through 5.37",
-      "versions 5.10 through 5.37",
-      "versions V4.32 through V5.38",
-      "versions V4.60 through V5.38",
-      "versions V5.00 through V5.38"
     ]
   },
   {
@@ -8526,13 +8041,6 @@
   },
   {
     "vendor": "Zyxel",
-    "product": "GS1900-10HP firmware",
-    "version": [
-      "V2.80(AAZI.0)C0"
-    ]
-  },
-  {
-    "vendor": "Zyxel",
     "product": "DX3300-T1 firmware",
     "version": [
       "V5.50(ABVY.4)C0"
@@ -8700,13 +8208,6 @@
   },
   {
     "vendor": "Zyxel",
-    "product": "GS1900-24EP firmware",
-    "version": [
-      "V2.70(ABTO.5)"
-    ]
-  },
-  {
-    "vendor": "Zyxel",
     "product": "NAS540 firmware",
     "version": [
       "< V5.21(AATB.11)C0"
@@ -8857,13 +8358,6 @@
   },
   {
     "vendor": "Zyxel",
-    "product": "GS1900-8HP firmware",
-    "version": [
-      "V2.70(AAHI.3)"
-    ]
-  },
-  {
-    "vendor": "Zyxel",
     "product": "GS1900-8 firmware",
     "version": [
       "V2.70(AAHH.3)"
@@ -8882,13 +8376,6 @@
     "version": [
       "1.00 through 1.33 Patch 4",
       "1.20 through 1.33 Patch 4"
-    ]
-  },
-  {
-    "vendor": "Zyxel",
-    "product": "NAP203 firmware",
-    "version": [
-      "<= 6.25(ABFA.7)"
     ]
   },
   {
@@ -8936,13 +8423,6 @@
   {
     "vendor": "Zyxel",
     "product": "USG FLEX series Firmware",
-    "version": [
-      "4.35 through 5.01"
-    ]
-  },
-  {
-    "vendor": "Zyxel",
-    "product": "ATP series Firmware",
     "version": [
       "4.35 through 5.01"
     ]
