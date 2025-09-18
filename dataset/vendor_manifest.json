@@ -226,21 +226,6 @@
   },
   {
     "vendor": "Huawei",
-    "product": "HUAWEI P smart",
-    "version": [
-      "earlier than 9.1.0.130(C185E6R1P5T8)",
-      "earlier than 9.1.0.130(C605E6R1P5T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
-    "product": "HUAWEI P smart,HUAWEI Y7s",
-    "version": [
-      "earlier than 9.1.0.124(C636E6R1P5T8)"
-    ]
-  },
-  {
-    "vendor": "Huawei",
     "product": "AR120-S",
     "version": [
       "V200R006C10",
